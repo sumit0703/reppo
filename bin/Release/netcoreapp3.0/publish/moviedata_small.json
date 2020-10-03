@@ -1,0 +1,999 @@
+[
+    {
+        "year": 2001,
+        "title": "Jimmy Neutron: Boy Genius",
+        "info": {
+            "directors": ["John A. Davis"],
+            "release_date": "2001-12-09T00:00:00Z",
+            "rating": 5.8,
+            "genres": [
+                "Animation",
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Sci-Fi"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTk5MTQ0NTM1Nl5BMl5BanBnXkFtZTcwNDkyNjIyMQ@@._V1_SX400_.jpg",
+            "plot": "Aliens abduct all adults; genius Jimmy and his friends build an interstellar spacefleet and rescue them.",
+            "rank": 4944,
+            "running_time_secs": 4920,
+            "actors": [
+                "Debi Derryberry",
+                "Rob Paulsen",
+                "Megan Cavanagh"
+            ]
+        }
+    },
+    {
+        "year": 1991,
+        "title": "Not Without My Daughter",
+        "info": {
+            "directors": ["Brian Gilbert"],
+            "release_date": "1991-01-11T00:00:00Z",
+            "rating": 5.9,
+            "genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjE4MTQwNjMzNF5BMl5BanBnXkFtZTcwNjAyOTM2NA@@._V1_SX400_.jpg",
+            "plot": "An American woman, trapped in Islamic Iran by her brutish husband, must find a way to escape with her daughter as well.",
+            "rank": 4945,
+            "running_time_secs": 6960,
+            "actors": [
+                "Sally Field",
+                "Alfred Molina",
+                "Sheila Rosenthal"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "Yi jiu si er",
+        "info": {
+            "directors": ["Xiaogang Feng"],
+            "release_date": "2012-11-11T00:00:00Z",
+            "rating": 6.7,
+            "genres": ["Drama"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BNjc2OTA3Mjc1Nl5BMl5BanBnXkFtZTcwMjQyNzU3OA@@._V1_SX400_.jpg",
+            "plot": "A deadly drought in 1942 takes its toll on central China's Henan province during the war against Japan.",
+            "rank": 4946,
+            "running_time_secs": 8700,
+            "actors": [
+                "Adrien Brody",
+                "Tim Robbins",
+                "Daoming Chen"
+            ]
+        }
+    },
+    {
+        "year": 2006,
+        "title": "Breaking and Entering",
+        "info": {
+            "directors": ["Anthony Minghella"],
+            "release_date": "2006-09-13T00:00:00Z",
+            "rating": 6.5,
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTI3NzM3NDU4M15BMl5BanBnXkFtZTcwNjYzODgzMQ@@._V1_SX400_.jpg",
+            "plot": "A landscape architect's dealings with a young thief cause him to re-evaluate his life.",
+            "rank": 4947,
+            "running_time_secs": 7200,
+            "actors": [
+                "Jude Law",
+                "Robin Wright",
+                "Vera Farmiga"
+            ]
+        }
+    },
+    {
+        "year": 2002,
+        "title": "Barbershop",
+        "info": {
+            "directors": ["Tim Story"],
+            "release_date": "2002-08-07T00:00:00Z",
+            "rating": 6.1,
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTgxNTE0OTEzM15BMl5BanBnXkFtZTYwMjgwNzk2._V1_SX400_.jpg",
+            "plot": "A day in the life of a South Side Chicago barbershop.",
+            "rank": 4948,
+            "running_time_secs": 6120,
+            "actors": [
+                "Ice Cube",
+                "Cedric the Entertainer",
+                "Eve"
+            ]
+        }
+    },
+    {
+        "year": 2013,
+        "title": "The Last Knights",
+        "info": {
+            "directors": ["Kazuaki Kiriya"],
+            "genres": [
+                "Action",
+                "Adventure"
+            ],
+            "rank": 4949,
+            "actors": [
+                "Morgan Freeman",
+                "Clive Owen",
+                "Aksel Hennie"
+            ]
+        }
+    },
+    {
+        "year": 1920,
+        "title": "Das Cabinet des Dr. Caligari",
+        "info": {
+            "directors": ["Robert Wiene"],
+            "release_date": "1920-02-26T00:00:00Z",
+            "rating": 8,
+            "genres": ["Horror"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTQwMzE0NTU5N15BMl5BanBnXkFtZTcwNDQwMTUyMQ@@._V1_SX400_.jpg",
+            "plot": "Dr. Caligari's somnambulist, Cesare, and his deadly predictions.",
+            "rank": 4950,
+            "running_time_secs": 4680,
+            "actors": [
+                "Werner Krauss",
+                "Conrad Veidt",
+                "Friedrich Feher"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "Biohazard: Damnation",
+        "info": {
+            "directors": ["Makoto Kamiya"],
+            "release_date": "2012-09-24T00:00:00Z",
+            "rating": 6.3,
+            "genres": [
+                "Animation",
+                "Action",
+                "Horror",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BNzg2ODUxOTIzN15BMl5BanBnXkFtZTcwMDM0NzAzOA@@._V1_SX400_.jpg",
+            "rank": 4951,
+            "running_time_secs": 6000,
+            "actors": [
+                "Matthew Mercer",
+                "Dave Wittenberg",
+                "Wendee Lee"
+            ]
+        }
+    },
+    {
+        "year": 1997,
+        "title": "Fools Rush In",
+        "info": {
+            "directors": ["Andy Tennant"],
+            "release_date": "1997-02-14T00:00:00Z",
+            "rating": 5.8,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTk0NDQyODM3MF5BMl5BanBnXkFtZTcwMjc1NTkxMQ@@._V1_SX400_.jpg",
+            "plot": "After a one night stand with Isabel, Alex realizes that she is pregnant and they decide to get married. However, along with the marriage comes compromise of one's own cultural traditions.",
+            "rank": 4952,
+            "running_time_secs": 6540,
+            "actors": [
+                "Matthew Perry",
+                "Salma Hayek",
+                "Jon Tenney"
+            ]
+        }
+    },
+    {
+        "year": 1979,
+        "title": "Zombi 2",
+        "info": {
+            "directors": ["Lucio Fulci"],
+            "release_date": "1979-08-25T00:00:00Z",
+            "rating": 6.7,
+            "genres": ["Horror"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMzAxMTI2NDgyOV5BMl5BanBnXkFtZTcwMjkxNjI5Ng@@._V1_SX400_.jpg",
+            "plot": "Strangers looking for a woman's father arrive at a tropical island where a doctor desperately searches for the cause and cure of a recent epidemic of the undead.",
+            "rank": 4954,
+            "running_time_secs": 5460,
+            "actors": [
+                "Tisa Farrow",
+                "Ian McCulloch",
+                "Richard Johnson"
+            ]
+        }
+    },
+    {
+        "year": 2003,
+        "title": "Kangaroo Jack",
+        "info": {
+            "directors": ["David McNally"],
+            "release_date": "2003-01-11T00:00:00Z",
+            "rating": 4.1,
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Crime"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTk1Njg5MjAyOV5BMl5BanBnXkFtZTYwNDAxMDg5._V1_SX400_.jpg",
+            "plot": "Two childhood friends, a New York hairstylist and a would-be musician, get caught up with the mob and are forced to deliver $50,000 to Australia, but things go haywire when the money is lost to a wild kangaroo.",
+            "rank": 4955,
+            "running_time_secs": 5340,
+            "actors": [
+                "Anthony Anderson",
+                "Jerry O'Connell",
+                "Estella Warren"
+            ]
+        }
+    },
+    {
+        "year": 2006,
+        "title": "Les anges exterminateurs",
+        "info": {
+            "directors": ["Jean-Claude Brisseau"],
+            "release_date": "2006-05-20T00:00:00Z",
+            "rating": 5.4,
+            "genres": [
+                "Drama",
+                "Fantasy"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTU4MDg1NzkwNF5BMl5BanBnXkFtZTcwMzE0NTM0MQ@@._V1_SX400_.jpg",
+            "plot": "A filmmaker (van den Driessche) holds a series of boundary-pushing auditions for his project about female pleasure.",
+            "rank": 4956,
+            "running_time_secs": 6000,
+            "actors": [
+                "Frederic van den Driessche",
+                "Maroussia Dubreuil",
+                "Lise Bellynck"
+            ]
+        }
+    },
+    {
+        "year": 2013,
+        "title": "Monica Z",
+        "info": {
+            "directors": ["Per Fly"],
+            "release_date": "2013-09-13T00:00:00Z",
+            "rating": 7.3,
+            "genres": [
+                "Biography",
+                "Drama",
+                "Music"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BODA5NzUyNDA0M15BMl5BanBnXkFtZTgwODY5MjQwMDE@._V1_SX400_.jpg",
+            "plot": "Ambitious singer must struggle with her musical career, her love life and to bring up her daughter by herself.",
+            "rank": 4957,
+            "actors": [
+                "Edda Magnason",
+                "Sverrir Gudnason",
+                "Kjell Bergqvist"
+            ]
+        }
+    },
+    {
+        "year": 2006,
+        "title": "The Sentinel",
+        "info": {
+            "directors": ["Clark Johnson"],
+            "release_date": "2006-04-19T00:00:00Z",
+            "rating": 6,
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTQ4OTcyODc1N15BMl5BanBnXkFtZTcwNDE0MjYzMQ@@._V1_SX400_.jpg",
+            "plot": "A secret service agent is framed as the mole in an assassination attempt on the president. He must clear his name and foil another assassination attempt while on the run from a relentless FBI agent.",
+            "rank": 4958,
+            "running_time_secs": 6480,
+            "actors": [
+                "Michael Douglas",
+                "Kiefer Sutherland",
+                "Kim Basinger"
+            ]
+        }
+    },
+    {
+        "year": 2008,
+        "title": "American Violet",
+        "info": {
+            "directors": ["Tim Disney"],
+            "release_date": "2008-08-29T00:00:00Z",
+            "rating": 6.7,
+            "genres": ["Drama"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTYwNjg4ODIwMV5BMl5BanBnXkFtZTcwODM3OTI4Mg@@._V1_SX400_.jpg",
+            "plot": "A single African-American mother struggles to clear her name after being wrongly accused and arrested for dealing drugs in an impoverished town in Texas.",
+            "rank": 4961,
+            "running_time_secs": 6180,
+            "actors": [
+                "Nicole Beharie",
+                "Will Patton",
+                "Alfre Woodard"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "Les infideles",
+        "info": {
+            "directors": [
+                "Emmanuelle Bercot",
+                "Fred Cavaye",
+                "Alexandre Courtes"
+            ],
+            "release_date": "2012-02-29T00:00:00Z",
+            "rating": 5.4,
+            "genres": ["Comedy"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjAyNjI1ODY1N15BMl5BanBnXkFtZTcwNzUwOTUzNw@@._V1_SX400_.jpg",
+            "plot": "A series of short films set around the theme of infidelity.",
+            "rank": 4962,
+            "running_time_secs": 6540,
+            "actors": [
+                "Jean Dujardin",
+                "Gilles Lellouche",
+                "Lionel Abelanski"
+            ]
+        }
+    },
+    {
+        "year": 1995,
+        "title": "Dolores Claiborne",
+        "info": {
+            "directors": ["Taylor Hackford"],
+            "release_date": "1995-03-24T00:00:00Z",
+            "rating": 7.2,
+            "genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjE4NDIwNzgwN15BMl5BanBnXkFtZTcwNzk3MDAzMQ@@._V1_SX400_.jpg",
+            "plot": "A big-city reporter travels to the small town where her mother has been arrested for the murder of an elderly woman that she works for as a maid.",
+            "rank": 4964,
+            "running_time_secs": 7920,
+            "actors": [
+                "Kathy Bates",
+                "Jennifer Jason Leigh",
+                "Christopher Plummer"
+            ]
+        }
+    },
+    {
+        "year": 2011,
+        "title": "The Entitled",
+        "info": {
+            "directors": ["Aaron Woodley"],
+            "release_date": "2011-09-06T00:00:00Z",
+            "rating": 6,
+            "genres": ["Thriller"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTcwMDY3NjIyMV5BMl5BanBnXkFtZTcwNzkyNTk2Ng@@._V1_SX400_.jpg",
+            "plot": "A young man, broke and jobless, abducts three rich college kids to try and get money from their fathers.",
+            "rank": 4965,
+            "running_time_secs": 5460,
+            "actors": [
+                "Kevin Zegers",
+                "Ray Liotta",
+                "Laura Vandervoort"
+            ]
+        }
+    },
+    {
+        "year": 1961,
+        "title": "The Guns of Navarone",
+        "info": {
+            "directors": ["J. Lee Thompson"],
+            "release_date": "1961-04-27T00:00:00Z",
+            "rating": 7.5,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "War"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjIwMzMwMTY4Nl5BMl5BanBnXkFtZTcwNTc1OTM2MQ@@._V1_SX400_.jpg",
+            "plot": "A British team is sent to cross occupied Greek territory and destroy the massive German gun emplacement that commands a key sea channel.",
+            "rank": 4968,
+            "running_time_secs": 9480,
+            "actors": [
+                "David Niven",
+                "Gregory Peck",
+                "Anthony Quinn"
+            ]
+        }
+    },
+    {
+        "year": 1989,
+        "title": "Kickboxer",
+        "info": {
+            "directors": [
+                "Mark DiSalle",
+                "David Worth"
+            ],
+            "release_date": "1989-04-20T00:00:00Z",
+            "rating": 5.9,
+            "genres": [
+                "Action",
+                "Sport",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTc2MDQ2MTI3NF5BMl5BanBnXkFtZTcwMTczMTYyMQ@@._V1_SX400_.jpg",
+            "plot": "Kurt Sloane must learn the ancient kick boxing art of Muay Thai in order to avenge his brother.",
+            "rank": 4970,
+            "running_time_secs": 5820,
+            "actors": [
+                "Jean-Claude Van Damme",
+                "Dennis Alexio",
+                "Dennis Chan"
+            ]
+        }
+    },
+    {
+        "year": 2011,
+        "title": "The Pill",
+        "info": {
+            "directors": ["J.C. Khoury"],
+            "release_date": "2011-06-07T00:00:00Z",
+            "rating": 5.4,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTM5MzM4OTIxNl5BMl5BanBnXkFtZTcwNjY2NDUxNw@@._V1_SX400_.jpg",
+            "plot": "Worried that he has gotten the free-spirited Mindy pregnant after an unprotected one-night stand, Fred feigns romantic interest and sticks by her side for twelve hours to make sure she takes both doses of the morning-after pill.",
+            "rank": 4972,
+            "running_time_secs": 4980,
+            "actors": [
+                "Noah Bean",
+                "Rachel Boston",
+                "Anna Chlumsky"
+            ]
+        }
+    },
+    {
+        "year": 1966,
+        "title": "Grand Prix",
+        "info": {
+            "directors": ["John Frankenheimer"],
+            "release_date": "1966-12-21T00:00:00Z",
+            "rating": 6.8,
+            "genres": [
+                "Drama",
+                "Sport"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjA0OTAzMDg1Ml5BMl5BanBnXkFtZTcwMzcwMzUzMg@@._V1_SX400_.jpg",
+            "rank": 4973,
+            "running_time_secs": 10560,
+            "actors": [
+                "James Garner",
+                "Eva Marie Saint",
+                "Yves Montand"
+            ]
+        }
+    },
+    {
+        "year": 2009,
+        "title": "Soul Kitchen",
+        "info": {
+            "directors": ["Fatih Akin"],
+            "release_date": "2009-09-10T00:00:00Z",
+            "rating": 7.1,
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjIzNDU4NTIxNV5BMl5BanBnXkFtZTcwMjAxMTM2Mw@@._V1_SX400_.jpg",
+            "plot": "In Hamburg, German-Greek chef Zinos unknowingly disturbs the peace in his locals-only restaurant by hiring a more talented chef.",
+            "rank": 4974,
+            "running_time_secs": 5940,
+            "actors": [
+                "Adam Bousdoukos",
+                "Moritz Bleibtreu",
+                "Pheline Roggan"
+            ]
+        }
+    },
+    {
+        "year": 1993,
+        "title": "Heart and Souls",
+        "info": {
+            "directors": ["Ron Underwood"],
+            "release_date": "1993-08-13T00:00:00Z",
+            "rating": 6.6,
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTQ1MTI5MzI3Nl5BMl5BanBnXkFtZTcwMTQ0MTkxMQ@@._V1_SX400_.jpg",
+            "plot": "A businessman is reunited with the four lost souls who were his guardian angels during childhood, all with a particular purpose to joining the afterlife.",
+            "rank": 4975,
+            "running_time_secs": 6240,
+            "actors": [
+                "Robert Downey Jr.",
+                "Charles Grodin",
+                "Alfre Woodard"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "The Attack",
+        "info": {
+            "directors": ["Ziad Doueiri"],
+            "release_date": "2012-09-01T00:00:00Z",
+            "rating": 7,
+            "genres": ["Drama"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTYxODIyMTQzMF5BMl5BanBnXkFtZTcwNTk4OTU0OQ@@._V1_SX400_.jpg",
+            "plot": "An Arab surgeon living in Tel Aviv discovers a dark secret about his wife in the aftermath of a suicide bombing.",
+            "rank": 4976,
+            "running_time_secs": 6120,
+            "actors": [
+                "Ali Suliman",
+                "Evgenia Dodena",
+                "Reymond Amsalem"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "The Bates Haunting",
+        "info": {
+            "directors": ["Byron Turk"],
+            "rating": 3.1,
+            "genres": ["Thriller"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjA0Mjg5OTIyMF5BMl5BanBnXkFtZTcwNTc5OTk4OQ@@._V1_SX400_.jpg",
+            "rank": 4977,
+            "running_time_secs": 4560,
+            "actors": [
+                "Jean Louise O'Sullivan",
+                "Zachary Fletcher",
+                "Ryan Dunn"
+            ]
+        }
+    },
+    {
+        "year": 1956,
+        "title": "Moby Dick",
+        "info": {
+            "directors": ["John Huston"],
+            "release_date": "1956-06-27T00:00:00Z",
+            "rating": 7.3,
+            "genres": [
+                "Adventure",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTMwOTA2MjU5N15BMl5BanBnXkFtZTcwMDYzODI1NA@@._V1_SX400_.jpg",
+            "plot": "The sole survivor of a lost whaling ship relates the tale of his captain's self-destructive obsession to hunt the white whale, Moby Dick.",
+            "rank": 4978,
+            "running_time_secs": 6960,
+            "actors": [
+                "Gregory Peck",
+                "Richard Basehart",
+                "Leo Genn"
+            ]
+        }
+    },
+    {
+        "year": 1984,
+        "title": "The Philadelphia Experiment",
+        "info": {
+            "directors": ["Stewart Raffill"],
+            "release_date": "1984-08-03T00:00:00Z",
+            "rating": 6.1,
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Romance",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjA2MDA5NTg5OF5BMl5BanBnXkFtZTcwMTEwNDI4OA@@._V1_SX400_.jpg",
+            "plot": "A United States Navy destroyer escort participates in a Navy \"invisibility\" experiment that inadvertently sends two sailors 40 years into the future.",
+            "rank": 4979,
+            "running_time_secs": 6120,
+            "actors": [
+                "Michael Pare",
+                "Nancy Allen",
+                "Eric Christmas"
+            ]
+        }
+    },
+    {
+        "year": 1998,
+        "title": "Dead Man on Campus",
+        "info": {
+            "directors": ["Alan Cohn"],
+            "release_date": "1998-08-01T00:00:00Z",
+            "rating": 5.7,
+            "genres": ["Comedy"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjE2MDk1MzYzN15BMl5BanBnXkFtZTcwNjkzNDQyMQ@@._V1_SX400_.jpg",
+            "plot": "Two college roommates go out and party, resulting in bad grades. They learn of the clause that says, \"If your roommate dies, you get an A,\" and decide to find someone who is on the verge, so to speak, to move in with them.",
+            "rank": 4980,
+            "running_time_secs": 5760,
+            "actors": [
+                "Tom Everett Scott",
+                "Mark-Paul Gosselaar",
+                "Poppy Montgomery"
+            ]
+        }
+    },
+    {
+        "year": 2002,
+        "title": "Slackers",
+        "info": {
+            "directors": ["Dewey Nicks"],
+            "release_date": "2002-02-01T00:00:00Z",
+            "rating": 4.9,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTQ3OTYzNDA1NV5BMl5BanBnXkFtZTcwNTEyODEyMQ@@._V1_SX400_.jpg",
+            "plot": "When geek Ethan discovers three fellow students scamming the exam system, he blackmails them to win over the college's most popular girl.",
+            "rank": 4981,
+            "running_time_secs": 5160,
+            "actors": [
+                "Devon Sawa",
+                "Robert B. Martin Jr.",
+                "Jason Segel"
+            ]
+        }
+    },
+    {
+        "year": 2008,
+        "title": "From Within",
+        "info": {
+            "directors": ["Phedon Papamichael"],
+            "release_date": "2008-04-25T00:00:00Z",
+            "rating": 5.6,
+            "genres": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjEwOTMyOTE3Ml5BMl5BanBnXkFtZTcwMjkyNTg0Mg@@._V1_SX400_.jpg",
+            "plot": "A small Maryland town is gripped by a curse which causes residents to take their own life one after another.",
+            "rank": 4982,
+            "running_time_secs": 5340,
+            "actors": [
+                "Elizabeth Rice",
+                "Thomas Dekker",
+                "Kelly Blatz"
+            ]
+        }
+    },
+    {
+        "year": 2010,
+        "title": "Les aventures extraordinaires d'Adele Blanc-Sec",
+        "info": {
+            "directors": ["Luc Besson"],
+            "release_date": "2010-04-09T00:00:00Z",
+            "rating": 6.1,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Mystery"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTcwNzc0ODc5N15BMl5BanBnXkFtZTcwNDI1MTY4NA@@._V1_SX400_.jpg",
+            "plot": "An adventure set in the early part of the 20th century and focused on a popular novelist and her dealings with would-be suitors, the cops, monsters, and other distractions.",
+            "rank": 4983,
+            "running_time_secs": 6420,
+            "actors": [
+                "Louise Bourgoin",
+                "Mathieu Amalric",
+                "Gilles Lellouche"
+            ]
+        }
+    },
+    {
+        "year": 1993,
+        "title": "Searching for Bobby Fischer",
+        "info": {
+            "directors": ["Steven Zaillian"],
+            "release_date": "1993-08-11T00:00:00Z",
+            "rating": 7.5,
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTI3NzY3ODg3N15BMl5BanBnXkFtZTcwNzU1NzcyMQ@@._V1_SX400_.jpg",
+            "plot": "A prepubescent chess prodigy refuses to harden himself in order to become a champion like the famous but unlikable Bobby Fischer.",
+            "rank": 4984,
+            "running_time_secs": 6540,
+            "actors": [
+                "Joe Mantegna",
+                "Ben Kingsley",
+                "Max Pomeranc"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "Sassy Pants",
+        "info": {
+            "directors": ["Coley Sohn"],
+            "release_date": "2012-10-26T00:00:00Z",
+            "rating": 6.1,
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTU5Mzc4MDM1Nl5BMl5BanBnXkFtZTcwNDYzMDkyNw@@._V1_SX400_.jpg",
+            "plot": "Desperate to get out from under her overprotective mother, a home-schooled teen runs off to live with her dad, and forms a bond with his much-younger boyfriend.",
+            "rank": 4985,
+            "actors": [
+                "Haley Joel Osment",
+                "Anna Gunn",
+                "Ashley Rickards"
+            ]
+        }
+    },
+    {
+        "year": 1982,
+        "title": "The Verdict",
+        "info": {
+            "directors": ["Sidney Lumet"],
+            "release_date": "1982-12-08T00:00:00Z",
+            "rating": 7.7,
+            "genres": ["Drama"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTU5MzMwMzAzM15BMl5BanBnXkFtZTcwNjYyMjA0Mg@@._V1_SX400_.jpg",
+            "plot": "A lawyer sees the chance to salvage his career and self-respect by taking a medical malpractice case to trial rather than settling.",
+            "rank": 4986,
+            "running_time_secs": 7740,
+            "actors": [
+                "Paul Newman",
+                "Charlotte Rampling",
+                "Jack Warden"
+            ]
+        }
+    },
+    {
+        "year": 1999,
+        "title": "For Love of the Game",
+        "info": {
+            "directors": ["Sam Raimi"],
+            "release_date": "1999-09-15T00:00:00Z",
+            "rating": 6.3,
+            "genres": [
+                "Drama",
+                "Romance",
+                "Sport"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTcyMDk1ODM5N15BMl5BanBnXkFtZTYwNjYzNzQ5._V1_SX400_.jpg",
+            "plot": "A washed up pitcher flashes through his career.",
+            "rank": 4987,
+            "running_time_secs": 8220,
+            "actors": [
+                "Kevin Costner",
+                "Kelly Preston",
+                "John C. Reilly"
+            ]
+        }
+    },
+    {
+        "year": 1998,
+        "title": "Dance with Me",
+        "info": {
+            "directors": ["Randa Haines"],
+            "release_date": "1998-08-21T00:00:00Z",
+            "rating": 5.2,
+            "genres": [
+                "Drama",
+                "Romance",
+                "Music"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTQ2MjM2NTEyNl5BMl5BanBnXkFtZTYwMjM2MjE5._V1_SX400_.jpg",
+            "rank": 4988,
+            "running_time_secs": 7560,
+            "actors": [
+                "Vanessa Williams",
+                "Chayanne",
+                "Kris Kristofferson"
+            ]
+        }
+    },
+    {
+        "year": 2008,
+        "title": "The Accidental Husband",
+        "info": {
+            "directors": ["Griffin Dunne"],
+            "release_date": "2008-02-13T00:00:00Z",
+            "rating": 5.4,
+            "genres": [
+                "Comedy",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTgwODQ0NTY3OF5BMl5BanBnXkFtZTcwNjA2NTQ3MQ@@._V1_SX400_.jpg",
+            "plot": "When talk radio host Emma Lloyd advises one of her listeners to break up with her boyfriend, the jilted ex sets about getting his revenge.",
+            "rank": 4989,
+            "running_time_secs": 5400,
+            "actors": [
+                "Uma Thurman",
+                "Jeffrey Dean Morgan",
+                "Justina Machado"
+            ]
+        }
+    },
+    {
+        "year": 1962,
+        "title": "Cape Fear",
+        "info": {
+            "directors": ["J. Lee Thompson"],
+            "release_date": "1962-04-12T00:00:00Z",
+            "rating": 7.7,
+            "genres": ["Thriller"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTYzMDA1NTQ2OV5BMl5BanBnXkFtZTcwNTA2MTYyMQ@@._V1_SX400_.jpg",
+            "plot": "A lawyer's family is stalked by a man he once helped put in jail.",
+            "rank": 4991,
+            "running_time_secs": 6300,
+            "actors": [
+                "Gregory Peck",
+                "Robert Mitchum",
+                "Polly Bergen"
+            ]
+        }
+    },
+    {
+        "year": 1957,
+        "title": "Trooper Hook",
+        "info": {
+            "directors": ["Charles Marquis Warren"],
+            "release_date": "1957-07-12T00:00:00Z",
+            "rating": 6.5,
+            "genres": ["Western"],
+            "rank": 4992,
+            "running_time_secs": 4860,
+            "actors": [
+                "Joel McCrea",
+                "Barbara Stanwyck",
+                "Earl Holliman"
+            ]
+        }
+    },
+    {
+        "year": 1963,
+        "title": "Lord of the Flies",
+        "info": {
+            "directors": ["Peter Brook"],
+            "release_date": "1963-05-01T00:00:00Z",
+            "rating": 7.1,
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjA1Mjc4MDA4MV5BMl5BanBnXkFtZTcwNDI2NTIyMQ@@._V1_SX400_.jpg",
+            "plot": "Shipwrecked on an island, the castaway boys eventually revert to savagery despite the few rational kids' attempts to prevent that.",
+            "rank": 4993,
+            "running_time_secs": 5520,
+            "actors": [
+                "James Aubrey",
+                "Tom Chapin",
+                "Hugh Edwards"
+            ]
+        }
+    },
+    {
+        "year": 1992,
+        "title": "Como agua para chocolate",
+        "info": {
+            "directors": ["Alfonso Arau"],
+            "release_date": "1992-04-16T00:00:00Z",
+            "rating": 7.1,
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTUxNDI3MTIyMF5BMl5BanBnXkFtZTcwMzg5NDEzMQ@@._V1_SX400_.jpg",
+            "rank": 4994,
+            "running_time_secs": 6300,
+            "actors": [
+                "Marco Leonardi",
+                "Lumi Cavazos",
+                "Regina Torne"
+            ]
+        }
+    },
+    {
+        "year": 2012,
+        "title": "Renoir",
+        "info": {
+            "directors": ["Gilles Bourdos"],
+            "release_date": "2012-05-25T00:00:00Z",
+            "rating": 6.4,
+            "genres": ["Drama"],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMzk3Nzg0NDA0Nl5BMl5BanBnXkFtZTcwMTg1MTUxOQ@@._V1_SX400_.jpg",
+            "rank": 4995,
+            "running_time_secs": 6660,
+            "actors": [
+                "Michel Bouquet",
+                "Christa Theret",
+                "Vincent Rottiers"
+            ]
+        }
+    },
+    {
+        "year": 2006,
+        "title": "The Contract",
+        "info": {
+            "directors": ["Bruce Beresford"],
+            "release_date": "2006-10-09T00:00:00Z",
+            "rating": 5.6,
+            "genres": [
+                "Action",
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMjEzNTIwMjg2OV5BMl5BanBnXkFtZTcwMzMxNzg0MQ@@._V1_SX400_.jpg",
+            "rank": 4996,
+            "running_time_secs": 5760,
+            "actors": [
+                "John Cusack",
+                "Morgan Freeman",
+                "Jamie Anderson"
+            ]
+        }
+    },
+    {
+        "year": 2010,
+        "title": "The Clinic",
+        "info": {
+            "directors": ["James Rabbitts"],
+            "release_date": "2010-07-25T00:00:00Z",
+            "rating": 5.2,
+            "genres": [
+                "Crime",
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTkwMzUwMjQ5NV5BMl5BanBnXkFtZTcwOTMyMzY2Mw@@._V1_SX400_.jpg",
+            "plot": "While traveling across country with her fiance, Beth wakes alone in an isolated clinic to a mother's worst nightmare. Just how far will she go to save her child?",
+            "rank": 4999,
+            "running_time_secs": 5640,
+            "actors": [
+                "Tabrett Bethell",
+                "Freya Stafford",
+                "Andy Whitfield"
+            ]
+        }
+    },
+    {
+        "year": 2004,
+        "title": "Little Black Book",
+        "info": {
+            "directors": ["Nick Hurran"],
+            "release_date": "2004-08-06T00:00:00Z",
+            "rating": 5.1,
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Drama"
+            ],
+            "image_url": "http://ia.media-imdb.com/images/M/MV5BMTY0ODczNzM4OV5BMl5BanBnXkFtZTcwNzcyMDUzMw@@._V1_SX400_.jpg",
+            "plot": "A woman snoops through her boyfriend's palm pilot and reveals his former girlfriends, which causes her to question why they're still listed in his little black book.",
+            "rank": 5000,
+            "running_time_secs": 6660,
+            "actors": [
+                "Brittany Murphy",
+                "Ron Livingston",
+                "Holly Hunter"
+            ]
+        }
+    }
+]

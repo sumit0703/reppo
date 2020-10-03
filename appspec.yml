@@ -1,0 +1,10 @@
+version: 0.0
+os: linux
+files:
+  - source: \
+    destination: C:\Users\singla\Desktop\build_realease
+hooks:
+ 
+  ApplicationStart:
+    - location: installApp.sh
+      timeout: 300
