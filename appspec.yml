@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: \
-    destination: C:\Users\singla\Desktop\build_realease
+    destination: C:\Users\Administrator\Desktop\build_release
 hooks:
  
   ApplicationStart:
